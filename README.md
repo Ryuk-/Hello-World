@@ -11,7 +11,7 @@ Italic:
 
 Newline:
 
-Hello
+Hello<br>
 world!
 
 Hello  
