@@ -1,22 +1,2 @@
-Hello world!
-
-Test.
-Another test.
-
-Testing markdown:
-
-Italic:
-
+Test
 *Test*
-
-Newline:
-
-Hello<br>
-world!
-
-Hello  
-world!
-
-Nom nom
-
-Git test!
