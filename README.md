@@ -1,6 +1,1 @@
-Test
-*Test*
-
-Čokolino!
-
-test
+This is testing repository!
