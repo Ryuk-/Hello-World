@@ -8,4 +8,6 @@ World!
 Testing branching.
 
 
-\* test
+test<sup>[1]</sup>
+
+[1] foobar
