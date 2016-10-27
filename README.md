@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 [**Demo**](http://webjeda.com/vyaasa/)
 
@@ -56,3 +57,6 @@ MIT License
 
 ### Version 0.8
 * Initial release with a reader-friendly layout.
+=======
+This is testing repository!
+>>>>>>> 07d698d7a2e1211fdd5748e6a485da3a6c4b671d
